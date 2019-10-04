@@ -1,0 +1,10 @@
+
+# HTID:3449374: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:3449374:
+php_value upload_max_filesize 2M
+php_value max_file_uploads 50 
+php_value post_max_size 50M
+php_value max_input_time 600
+php_value max_execution_time 720
+php_value date.timezone Asia/Jakarta
